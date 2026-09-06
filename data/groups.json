@@ -1,510 +1,510 @@
 [
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-telegram-1",
-    "title": "Funded Trader Evaluations Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/prop-trading-firms-&-pass-challenge-hub-telegram-1",
+    "id": "prop-trading-challenge-hub-reddit-1",
+    "title": "Daytrading Mastermind Forum",
+    "platform": "Reddit",
+    "category": "Daytrading",
+    "memberCount": "2,200,000+ members",
+    "description": "Premier community for day traders discussing funded account rules, risk-reward ratios, and intraday execution.",
+    "joinUrl": "https://www.reddit.com/r/Daytrading/",
     "tags": [
-      "funded-trader-evaluations",
-      "telegram",
-      "networking",
-      "verified"
+      "daytrading",
+      "funded-accounts",
+      "risk-management",
+      "reddit"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-discord-2",
-    "title": "Payout Proofs Global Discord Hub",
-    "platform": "Discord",
-    "category": "Payout Proofs",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/prop-trading-firms-&-pass-challenge-hub-discord-2",
+    "id": "prop-trading-challenge-hub-reddit-2",
+    "title": "Forex & Currency Traders Hub",
+    "platform": "Reddit",
+    "category": "Forex",
+    "memberCount": "550,000+ members",
+    "description": "Largest online forex forum covering currency pairs, spread analysis, prop firm rules, and macroeconomic catalysts.",
+    "joinUrl": "https://www.reddit.com/r/Forex/",
     "tags": [
-      "payout-proofs",
-      "discord",
-      "networking",
-      "verified"
+      "forex",
+      "prop-firms",
+      "currencies",
+      "reddit"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-whatsapp-3",
-    "title": "Risk Management Rules Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Risk Management Rules",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/prop-trading-firms-&-pass-challenge-hub-whatsapp-3",
+    "id": "prop-trading-challenge-hub-reddit-3",
+    "title": "Futures Trading & Micro Contracts",
+    "platform": "Reddit",
+    "category": "Futures",
+    "memberCount": "160,000+ members",
+    "description": "Dedicated discussions on ES, NQ, and CL futures, prop evaluation drawdown rules, and contract specifications.",
+    "joinUrl": "https://www.reddit.com/r/FuturesTrading/",
     "tags": [
-      "risk-management-rules",
-      "whatsapp",
-      "networking",
-      "verified"
+      "futures",
+      "es-nq",
+      "evaluations",
+      "reddit"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-reddit-4",
-    "title": "Funded Trader Evaluations Global Reddit Hub",
+    "id": "prop-trading-challenge-hub-reddit-4",
+    "title": "Algorithmic & Quantitative Trading",
     "platform": "Reddit",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/prop-trading-firms-&-pass-challenge-hub-reddit-4",
+    "category": "Algotrading",
+    "memberCount": "800,000+ members",
+    "description": "Automated trading systems, backtesting frameworks, API connectivity, and statistical arbitrage strategies.",
+    "joinUrl": "https://www.reddit.com/r/algotrading/",
     "tags": [
-      "funded-trader-evaluations",
-      "reddit",
-      "networking",
-      "verified"
+      "algotrading",
+      "python",
+      "quantitative",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-telegram-5",
-    "title": "Payout Proofs Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Payout Proofs",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/prop-trading-firms-&-pass-challenge-hub-telegram-5",
-    "tags": [
-      "payout-proofs",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-discord-6",
-    "title": "Risk Management Rules Global Discord Hub",
-    "platform": "Discord",
-    "category": "Risk Management Rules",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/prop-trading-firms-&-pass-challenge-hub-discord-6",
-    "tags": [
-      "risk-management-rules",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-whatsapp-7",
-    "title": "Funded Trader Evaluations Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/prop-trading-firms-&-pass-challenge-hub-whatsapp-7",
-    "tags": [
-      "funded-trader-evaluations",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-reddit-8",
-    "title": "Payout Proofs Global Reddit Hub",
+    "id": "prop-trading-challenge-hub-reddit-5",
+    "title": "TradingView Indicators & Pine Script",
     "platform": "Reddit",
-    "category": "Payout Proofs",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/prop-trading-firms-&-pass-challenge-hub-reddit-8",
+    "category": "Tradingview",
+    "memberCount": "210,000+ members",
+    "description": "Chart indicators, Pine Script v5 development, alert webhooks, and multi-timeframe technical analysis setups.",
+    "joinUrl": "https://www.reddit.com/r/TradingView/",
     "tags": [
-      "payout-proofs",
-      "reddit",
-      "networking",
-      "verified"
+      "tradingview",
+      "pine-script",
+      "indicators",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-telegram-9",
-    "title": "Risk Management Rules Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Risk Management Rules",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/prop-trading-firms-&-pass-challenge-hub-telegram-9",
-    "tags": [
-      "risk-management-rules",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-discord-10",
-    "title": "Funded Trader Evaluations Global Discord Hub",
-    "platform": "Discord",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/prop-trading-firms-&-pass-challenge-hub-discord-10",
-    "tags": [
-      "funded-trader-evaluations",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-whatsapp-11",
-    "title": "Payout Proofs Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Payout Proofs",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/prop-trading-firms-&-pass-challenge-hub-whatsapp-11",
-    "tags": [
-      "payout-proofs",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-reddit-12",
-    "title": "Risk Management Rules Global Reddit Hub",
+    "id": "prop-trading-challenge-hub-reddit-6",
+    "title": "Options Trading & Volatility Hub",
     "platform": "Reddit",
-    "category": "Risk Management Rules",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/prop-trading-firms-&-pass-challenge-hub-reddit-12",
+    "category": "Options",
+    "memberCount": "1,100,000+ members",
+    "description": "Greeks, implied volatility skew, hedged credit spreads, and multi-leg risk management techniques.",
+    "joinUrl": "https://www.reddit.com/r/options/",
     "tags": [
-      "risk-management-rules",
-      "reddit",
-      "networking",
-      "verified"
+      "options",
+      "volatility",
+      "hedging",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-telegram-13",
-    "title": "Funded Trader Evaluations Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/prop-trading-firms-&-pass-challenge-hub-telegram-13",
-    "tags": [
-      "funded-trader-evaluations",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-discord-14",
-    "title": "Payout Proofs Global Discord Hub",
-    "platform": "Discord",
-    "category": "Payout Proofs",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/prop-trading-firms-&-pass-challenge-hub-discord-14",
-    "tags": [
-      "payout-proofs",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-whatsapp-15",
-    "title": "Risk Management Rules Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Risk Management Rules",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/prop-trading-firms-&-pass-challenge-hub-whatsapp-15",
-    "tags": [
-      "risk-management-rules",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-reddit-16",
-    "title": "Funded Trader Evaluations Global Reddit Hub",
+    "id": "prop-trading-challenge-hub-reddit-7",
+    "title": "Small Cap Momentum & Volume Alerts",
     "platform": "Reddit",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/prop-trading-firms-&-pass-challenge-hub-reddit-16",
+    "category": "Small Caps",
+    "memberCount": "2,000,000+ members",
+    "description": "High-beta small cap momentum, scanner configurations, float analysis, and catalyst trading.",
+    "joinUrl": "https://www.reddit.com/r/pennystocks/",
     "tags": [
-      "funded-trader-evaluations",
-      "reddit",
-      "networking",
-      "verified"
+      "small-caps",
+      "momentum",
+      "scanners",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-telegram-17",
-    "title": "Payout Proofs Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Payout Proofs",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/prop-trading-firms-&-pass-challenge-hub-telegram-17",
-    "tags": [
-      "payout-proofs",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-discord-18",
-    "title": "Risk Management Rules Global Discord Hub",
-    "platform": "Discord",
-    "category": "Risk Management Rules",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/prop-trading-firms-&-pass-challenge-hub-discord-18",
-    "tags": [
-      "risk-management-rules",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-whatsapp-19",
-    "title": "Funded Trader Evaluations Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/prop-trading-firms-&-pass-challenge-hub-whatsapp-19",
-    "tags": [
-      "funded-trader-evaluations",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-reddit-20",
-    "title": "Payout Proofs Global Reddit Hub",
+    "id": "prop-trading-challenge-hub-reddit-8",
+    "title": "Global Equities & Fundamental Research",
     "platform": "Reddit",
-    "category": "Payout Proofs",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/prop-trading-firms-&-pass-challenge-hub-reddit-20",
+    "category": "Stocks",
+    "memberCount": "6,500,000+ members",
+    "description": "Macro liquidity trends, corporate earnings plays, sector rotation analysis, and institutional positioning.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
     "tags": [
-      "payout-proofs",
-      "reddit",
-      "networking",
-      "verified"
+      "stocks",
+      "equities",
+      "earnings",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-telegram-21",
-    "title": "Risk Management Rules Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Risk Management Rules",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/prop-trading-firms-&-pass-challenge-hub-telegram-21",
-    "tags": [
-      "risk-management-rules",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-discord-22",
-    "title": "Funded Trader Evaluations Global Discord Hub",
-    "platform": "Discord",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/prop-trading-firms-&-pass-challenge-hub-discord-22",
-    "tags": [
-      "funded-trader-evaluations",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-whatsapp-23",
-    "title": "Payout Proofs Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Payout Proofs",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/prop-trading-firms-&-pass-challenge-hub-whatsapp-23",
-    "tags": [
-      "payout-proofs",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-reddit-24",
-    "title": "Risk Management Rules Global Reddit Hub",
+    "id": "prop-trading-challenge-hub-reddit-9",
+    "title": "Stock Market & Technical Breakouts",
     "platform": "Reddit",
-    "category": "Risk Management Rules",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/prop-trading-firms-&-pass-challenge-hub-reddit-24",
+    "category": "Stockmarket",
+    "memberCount": "3,100,000+ members",
+    "description": "Chart pattern recognition, market breadth analysis, key resistance levels, and volume profile breakouts.",
+    "joinUrl": "https://www.reddit.com/r/StockMarket/",
     "tags": [
-      "risk-management-rules",
-      "reddit",
-      "networking",
-      "verified"
+      "stockmarket",
+      "breakouts",
+      "technicals",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-telegram-25",
-    "title": "Funded Trader Evaluations Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/prop-trading-firms-&-pass-challenge-hub-telegram-25",
-    "tags": [
-      "funded-trader-evaluations",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-discord-26",
-    "title": "Payout Proofs Global Discord Hub",
-    "platform": "Discord",
-    "category": "Payout Proofs",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/prop-trading-firms-&-pass-challenge-hub-discord-26",
-    "tags": [
-      "payout-proofs",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-whatsapp-27",
-    "title": "Risk Management Rules Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Risk Management Rules",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/prop-trading-firms-&-pass-challenge-hub-whatsapp-27",
-    "tags": [
-      "risk-management-rules",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "prop-trading-firms-&-pass-challenge-hub-reddit-28",
-    "title": "Funded Trader Evaluations Global Reddit Hub",
+    "id": "prop-trading-challenge-hub-reddit-10",
+    "title": "Institutional Capital & Asset Allocation",
     "platform": "Reddit",
-    "category": "Funded Trader Evaluations",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on funded trader evaluations discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/prop-trading-firms-&-pass-challenge-hub-reddit-28",
+    "category": "Investing",
+    "memberCount": "2,400,000+ members",
+    "description": "Capital preservation, portfolio risk models, drawdowns mitigation, and long-term liquidity strategy.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
     "tags": [
-      "funded-trader-evaluations",
-      "reddit",
-      "networking",
-      "verified"
+      "investing",
+      "risk-models",
+      "capital-preservation",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-telegram-29",
-    "title": "Payout Proofs Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Payout Proofs",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on payout proofs discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/prop-trading-firms-&-pass-challenge-hub-telegram-29",
+    "id": "prop-trading-challenge-hub-reddit-11",
+    "title": "WallStreetBets High Volatility Lounge",
+    "platform": "Reddit",
+    "category": "Wsb",
+    "memberCount": "16,000,000+ members",
+    "description": "High delta momentum, market sentiment sentiment gauges, and asymmetric risk-reward discussions.",
+    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
     "tags": [
-      "payout-proofs",
-      "telegram",
-      "networking",
-      "verified"
+      "wsb",
+      "volatility",
+      "sentiment",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "prop-trading-firms-&-pass-challenge-hub-discord-30",
-    "title": "Risk Management Rules Global Discord Hub",
+    "id": "prop-trading-challenge-hub-reddit-12",
+    "title": "Swing Trading & Trend Following",
+    "platform": "Reddit",
+    "category": "Swingtrading",
+    "memberCount": "190,000+ members",
+    "description": "Multi-day trend following, Fibonacci retracements, daily support bounces, and position sizing.",
+    "joinUrl": "https://www.reddit.com/r/SwingTrading/",
+    "tags": [
+      "swingtrading",
+      "trend-following",
+      "fibonacci",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-reddit-13",
+    "title": "Technical Analysis & Pattern Geometry",
+    "platform": "Reddit",
+    "category": "Technical Analysis",
+    "memberCount": "140,000+ members",
+    "description": "Support/resistance zones, moving average confluence, RSI divergences, and candlestick price action.",
+    "joinUrl": "https://www.reddit.com/r/technicalanalysis/",
+    "tags": [
+      "technical-analysis",
+      "price-action",
+      "divergence",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-reddit-14",
+    "title": "Crypto Derivatives & Volatility Guild",
+    "platform": "Reddit",
+    "category": "Crypto",
+    "memberCount": "8,200,000+ members",
+    "description": "Crypto perps, funding rates, leverage management, and liquidation heatmaps for digital assets.",
+    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
+    "tags": [
+      "crypto",
+      "derivatives",
+      "funding-rates",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-discord-15",
+    "title": "Day Trading Global Discord Server",
     "platform": "Discord",
-    "category": "Risk Management Rules",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on risk management rules discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/prop-trading-firms-&-pass-challenge-hub-discord-30",
+    "category": "Daytrading",
+    "memberCount": "45,000+ members",
+    "description": "Active voice trading rooms, live market screenshares, trade recap reviews, and trader psychology checks.",
+    "joinUrl": "https://discord.gg/daytrading",
     "tags": [
-      "risk-management-rules",
-      "discord",
-      "networking",
-      "verified"
+      "daytrading",
+      "voice-rooms",
+      "live-screenshare",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-discord-16",
+    "title": "Prop Trading Firms Evaluation Hub",
+    "platform": "Discord",
+    "category": "Prop Trading",
+    "memberCount": "30,000+ members",
+    "description": "Dedicated to passing prop firm challenges, drawdown calculators, payout proofs, and evaluation guidelines.",
+    "joinUrl": "https://discord.gg/proptrading",
+    "tags": [
+      "prop-trading",
+      "evaluations",
+      "payout-proofs",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-discord-17",
+    "title": "Professional Traders Discord Lounge",
+    "platform": "Discord",
+    "category": "Order Flow",
+    "memberCount": "75,000+ members",
+    "description": "Multi-asset institutional lounge with rooms for order flow, VWAP strategies, and market depth (DOM).",
+    "joinUrl": "https://discord.gg/trading",
+    "tags": [
+      "order-flow",
+      "vwap",
+      "dom",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-discord-18",
+    "title": "Forex Signals & Market Structure Discord",
+    "platform": "Discord",
+    "category": "Forex",
+    "memberCount": "50,000+ members",
+    "description": "Real-time session opens (London/NY), liquidity sweep analysis, and currency correlation heatmaps.",
+    "joinUrl": "https://discord.gg/forex",
+    "tags": [
+      "forex",
+      "london-session",
+      "ny-session",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-discord-19",
+    "title": "Equities & Market Structure Guild",
+    "platform": "Discord",
+    "category": "Equities",
+    "memberCount": "110,000+ members",
+    "description": "Live market commentary during market hours, key level alerts, and economic calendar breakdowns.",
+    "joinUrl": "https://discord.gg/stocks",
+    "tags": [
+      "equities",
+      "economic-calendar",
+      "live-alerts",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-discord-20",
+    "title": "Global Market Structure & Portfolio Guild",
+    "platform": "Discord",
+    "category": "Macro",
+    "memberCount": "150,000+ members",
+    "description": "Risk parity allocations, yield curve analysis, central bank policies, and macro market conditions.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "macro",
+      "yield-curve",
+      "portfolio-guild",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-discord-21",
+    "title": "Options Strategies & Zero-DTE Guild",
+    "platform": "Discord",
+    "category": "Options",
+    "memberCount": "60,000+ members",
+    "description": "0-DTE index execution, iron condors, delta-neutral strategies, and option flow scanners.",
+    "joinUrl": "https://discord.gg/options",
+    "tags": [
+      "options",
+      "0-dte",
+      "iron-condors",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-discord-22",
+    "title": "WallStreetBets Official Discord",
+    "platform": "Discord",
+    "category": "Wsb",
+    "memberCount": "250,000+ members",
+    "description": "High-frequency discussion on trending tickers, option flow anomalies, and earnings volatility.",
+    "joinUrl": "https://discord.gg/wallstreetbets",
+    "tags": [
+      "wsb",
+      "trending-tickers",
+      "option-flow",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-telegram-23",
+    "title": "Day Trading Live Setups & Signals",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "42,000+ members",
+    "description": "Real-time chart setups, key price levels, risk parameters, and morning watchlist alerts.",
+    "joinUrl": "https://t.me/daytrading",
+    "tags": [
+      "telegram",
+      "daytrading",
+      "chart-setups",
+      "alerts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-telegram-24",
+    "title": "Prop Traders & Challenge Verification",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "28,000+ members",
+    "description": "Daily updates on prop firm rules, discount promo codes, pass rates, and payout verification receipts.",
+    "joinUrl": "https://t.me/proptraders",
+    "tags": [
+      "telegram",
+      "prop-firms",
+      "payouts",
+      "rules"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-telegram-25",
+    "title": "Forex Technical Analysis & Key Levels",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "35,000+ members",
+    "description": "Daily technical breakdowns of EURUSD, GBPUSD, USDJPY, and XAUUSD gold key support and resistance.",
+    "joinUrl": "https://t.me/forextrading",
+    "tags": [
+      "telegram",
+      "forex",
+      "gold",
+      "technical-analysis"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-telegram-26",
+    "title": "TradingView Official Idea Stream",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "85,000+ members",
+    "description": "Top community published charts, script releases, algorithmic backtests, and indicator updates.",
+    "joinUrl": "https://t.me/tradingview",
+    "tags": [
+      "telegram",
+      "tradingview",
+      "charts",
+      "backtests"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-telegram-27",
+    "title": "Stock Market Movers & Watchlists",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "55,000+ members",
+    "description": "Pre-market gappers, earnings calendars, upgrade/downgrade tickers, and volume alerts.",
+    "joinUrl": "https://t.me/stockmarket",
+    "tags": [
+      "telegram",
+      "pre-market",
+      "watchlists",
+      "movers"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-telegram-28",
+    "title": "Global Macro & Alpha Intelligence",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "35,000+ members",
+    "description": "Central bank interest rate decisions, CPI prints, macro liquidity, and bond yield movements.",
+    "joinUrl": "https://t.me/investing",
+    "tags": [
+      "telegram",
+      "macro",
+      "cpi",
+      "bonds"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-telegram-29",
+    "title": "High-Beta Futures & Crypto Setups",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "60,000+ members",
+    "description": "Leverage trading setups, funding rate anomalies, liquidation heatmaps, and breakout alerts.",
+    "joinUrl": "https://t.me/cryptotrading",
+    "tags": [
+      "telegram",
+      "crypto",
+      "futures",
+      "liquidation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "prop-trading-challenge-hub-telegram-30",
+    "title": "Currency Session Signals & Breakouts",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "45,000+ members",
+    "description": "London and New York breakout setups, stop hunts, and high-probability reversal zones.",
+    "joinUrl": "https://t.me/forexsignals",
+    "tags": [
+      "telegram",
+      "breakouts",
+      "stop-hunts",
+      "reversals"
     ],
     "verified": true,
     "featured": false
