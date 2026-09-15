@@ -1,17 +1,17 @@
 [
   {
-    "id": "prop-trading-challenge-hub-forum-20260915-1",
-    "title": "Bogleheads Forum Community",
-    "platform": "Forum",
-    "category": "Passive Investing",
-    "memberCount": "250,000+ members",
-    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
-    "joinUrl": "https://bogleheads.org/forum/",
+    "id": "prop-trading-challenge-hub-reddit-20260915-1",
+    "title": "r/Daytrading Risk Management Guild",
+    "platform": "Reddit",
+    "category": "Day Trading",
+    "memberCount": "2,100,000+ members",
+    "description": "Daily trade reviews, Level 2 tape reading, futures order flow, prop evaluation guidelines, and drawdown mitigation strategies.",
+    "joinUrl": "https://www.reddit.com/r/Daytrading/",
     "tags": [
-      "bogleheads",
-      "indexing",
-      "forum",
-      "passive-investing"
+      "daytrading",
+      "prop-trading",
+      "futures",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
@@ -93,24 +93,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "prop-trading-challenge-hub-reddit-1",
-    "title": "Daytrading Mastermind Forum",
-    "platform": "Reddit",
-    "category": "Daytrading",
-    "memberCount": "2,200,000+ members",
-    "description": "Premier community for day traders discussing funded account rules, risk-reward ratios, and intraday execution.",
-    "joinUrl": "https://www.reddit.com/r/Daytrading/",
-    "tags": [
-      "daytrading",
-      "funded-accounts",
-      "risk-management",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "prop-trading-challenge-hub-reddit-2",
@@ -341,24 +323,6 @@
       "derivatives",
       "funding-rates",
       "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "prop-trading-challenge-hub-discord-15",
-    "title": "Day Trading Global Discord Server",
-    "platform": "Discord",
-    "category": "Daytrading",
-    "memberCount": "45,000+ members",
-    "description": "Active voice trading rooms, live market screenshares, trade recap reviews, and trader psychology checks.",
-    "joinUrl": "https://www.reddit.com/r/Daytrading/",
-    "tags": [
-      "daytrading",
-      "voice-rooms",
-      "live-screenshare",
-      "discord"
     ],
     "verified": true,
     "featured": false,
