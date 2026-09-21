@@ -1,5 +1,24 @@
 [
   {
+    "id": "prop-trading-challenge-hub-reddit-20260921-1",
+    "title": "r/ethereum Developers & Tech",
+    "platform": "Reddit",
+    "category": "Smart Contracts",
+    "memberCount": "3,400,000+ members",
+    "description": "Subreddit focused on Ethereum network upgrades, Layer 2 rollups, EVM smart contracts, and proof-of-stake economics.",
+    "joinUrl": "https://www.reddit.com/r/ethereum/",
+    "tags": [
+      "ethereum",
+      "smart-contracts",
+      "evm",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-21"
+  },
+  {
     "id": "prop-trading-challenge-hub-forum-20260920-1",
     "title": "BiggerPockets Real Estate Forum",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-20"
   },
   {
