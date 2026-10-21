@@ -4,10 +4,17 @@
     <title>Prop Trading Firms &amp; Pass Challenge Hub</title>
     <link>https://prop-trading-challenge-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:00:46 GMT</lastBuildDate>
     <atom:link href="https://prop-trading-challenge-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://prop-trading-challenge-hub.vercel.app/#prop-trading-challenge-hub-forum-20261005-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:46 GMT</pubDate>
+      <description>Newly verified community added to Prop Trading Firms &amp; Pass Challenge Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://prop-trading-challenge-hub.vercel.app/#prop-trading-challenge-hub-forum-20261005-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://prop-trading-challenge-hub.vercel.app/#prop-trading-challenge-hub-reddit-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:00:38 GMT</pubDate>
       <description>Newly verified community added to Prop Trading Firms &amp; Pass Challenge Hub: Subreddit focused on Ethereum network upgrades, Layer 2 rollups, EVM smart contracts, and proof-of-stake economics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: BiggerPockets Real Estate Forum (Forum)</title>
-      <link>https://www.biggerpockets.com/forums</link>
-      <guid isPermaLink="false">https://prop-trading-challenge-hub.vercel.app/#prop-trading-challenge-hub-forum-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:00:39 GMT</pubDate>
-      <description>Newly verified community added to Prop Trading Firms &amp; Pass Challenge Hub: The definitive online community for real estate investors, syndicators, wholesalers, and property managers.</description>
     </item>
   </channel>
 </rss>
