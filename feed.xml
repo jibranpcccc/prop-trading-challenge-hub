@@ -4,10 +4,17 @@
     <title>Prop Trading Firms &amp; Pass Challenge Hub</title>
     <link>https://prop-trading-challenge-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:00:45 GMT</lastBuildDate>
     <atom:link href="https://prop-trading-challenge-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://prop-trading-challenge-hub.vercel.app/#prop-trading-challenge-hub-forum-20261005-1-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:45 GMT</pubDate>
+      <description>Newly verified community added to Prop Trading Firms &amp; Pass Challenge Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://prop-trading-challenge-hub.vercel.app/#prop-trading-challenge-hub-forum-20261005-1-2026-10-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://prop-trading-challenge-hub.vercel.app/#prop-trading-challenge-hub-telegram-20260925-1-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 06:00:42 GMT</pubDate>
       <description>Newly verified community added to Prop Trading Firms &amp; Pass Challenge Hub: Real-time market updates, on-chain whale alerts, token listings, and protocol governance votes.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Ethereum Official Discord (Discord)</title>
-      <link>https://discord.gg/solana</link>
-      <guid isPermaLink="false">https://prop-trading-challenge-hub.vercel.app/#prop-trading-challenge-hub-discord-20260924-1-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 06:00:41 GMT</pubDate>
-      <description>Newly verified community added to Prop Trading Firms &amp; Pass Challenge Hub: Community server connecting core developers, Solidity researchers, and decentralized application creators.</description>
     </item>
   </channel>
 </rss>
